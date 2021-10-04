@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    double A; double B; double C; // òðè òî÷êè íà ÷èñëîâîé îñè
+    double A; double B; double C;
     cout << "Координаты А: ";
     cin >> A;
     cout << "Координаты В: ";
