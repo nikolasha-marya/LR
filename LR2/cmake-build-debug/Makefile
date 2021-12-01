@@ -122,6 +122,33 @@ LR2/fast:
 	$(MAKE) -f CMakeFiles\LR2.dir\build.make CMakeFiles/LR2.dir/build
 .PHONY : LR2/fast
 
+Z1.obj: Z1.cpp.obj
+
+.PHONY : Z1.obj
+
+# target to build an object file
+Z1.cpp.obj:
+	$(MAKE) -f CMakeFiles\LR2.dir\build.make CMakeFiles/LR2.dir/Z1.cpp.obj
+.PHONY : Z1.cpp.obj
+
+Z1.i: Z1.cpp.i
+
+.PHONY : Z1.i
+
+# target to preprocess a source file
+Z1.cpp.i:
+	$(MAKE) -f CMakeFiles\LR2.dir\build.make CMakeFiles/LR2.dir/Z1.cpp.i
+.PHONY : Z1.cpp.i
+
+Z1.s: Z1.cpp.s
+
+.PHONY : Z1.s
+
+# target to generate assembly for a file
+Z1.cpp.s:
+	$(MAKE) -f CMakeFiles\LR2.dir\build.make CMakeFiles/LR2.dir/Z1.cpp.s
+.PHONY : Z1.cpp.s
+
 Z2.obj: Z2.cpp.obj
 
 .PHONY : Z2.obj
@@ -149,6 +176,87 @@ Z2.cpp.s:
 	$(MAKE) -f CMakeFiles\LR2.dir\build.make CMakeFiles/LR2.dir/Z2.cpp.s
 .PHONY : Z2.cpp.s
 
+Z3.obj: Z3.cpp.obj
+
+.PHONY : Z3.obj
+
+# target to build an object file
+Z3.cpp.obj:
+	$(MAKE) -f CMakeFiles\LR2.dir\build.make CMakeFiles/LR2.dir/Z3.cpp.obj
+.PHONY : Z3.cpp.obj
+
+Z3.i: Z3.cpp.i
+
+.PHONY : Z3.i
+
+# target to preprocess a source file
+Z3.cpp.i:
+	$(MAKE) -f CMakeFiles\LR2.dir\build.make CMakeFiles/LR2.dir/Z3.cpp.i
+.PHONY : Z3.cpp.i
+
+Z3.s: Z3.cpp.s
+
+.PHONY : Z3.s
+
+# target to generate assembly for a file
+Z3.cpp.s:
+	$(MAKE) -f CMakeFiles\LR2.dir\build.make CMakeFiles/LR2.dir/Z3.cpp.s
+.PHONY : Z3.cpp.s
+
+Z4.obj: Z4.cpp.obj
+
+.PHONY : Z4.obj
+
+# target to build an object file
+Z4.cpp.obj:
+	$(MAKE) -f CMakeFiles\LR2.dir\build.make CMakeFiles/LR2.dir/Z4.cpp.obj
+.PHONY : Z4.cpp.obj
+
+Z4.i: Z4.cpp.i
+
+.PHONY : Z4.i
+
+# target to preprocess a source file
+Z4.cpp.i:
+	$(MAKE) -f CMakeFiles\LR2.dir\build.make CMakeFiles/LR2.dir/Z4.cpp.i
+.PHONY : Z4.cpp.i
+
+Z4.s: Z4.cpp.s
+
+.PHONY : Z4.s
+
+# target to generate assembly for a file
+Z4.cpp.s:
+	$(MAKE) -f CMakeFiles\LR2.dir\build.make CMakeFiles/LR2.dir/Z4.cpp.s
+.PHONY : Z4.cpp.s
+
+Z5.obj: Z5.cpp.obj
+
+.PHONY : Z5.obj
+
+# target to build an object file
+Z5.cpp.obj:
+	$(MAKE) -f CMakeFiles\LR2.dir\build.make CMakeFiles/LR2.dir/Z5.cpp.obj
+.PHONY : Z5.cpp.obj
+
+Z5.i: Z5.cpp.i
+
+.PHONY : Z5.i
+
+# target to preprocess a source file
+Z5.cpp.i:
+	$(MAKE) -f CMakeFiles\LR2.dir\build.make CMakeFiles/LR2.dir/Z5.cpp.i
+.PHONY : Z5.cpp.i
+
+Z5.s: Z5.cpp.s
+
+.PHONY : Z5.s
+
+# target to generate assembly for a file
+Z5.cpp.s:
+	$(MAKE) -f CMakeFiles\LR2.dir\build.make CMakeFiles/LR2.dir/Z5.cpp.s
+.PHONY : Z5.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -158,9 +266,21 @@ help:
 	@echo ... LR2
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Z1.obj
+	@echo ... Z1.i
+	@echo ... Z1.s
 	@echo ... Z2.obj
 	@echo ... Z2.i
 	@echo ... Z2.s
+	@echo ... Z3.obj
+	@echo ... Z3.i
+	@echo ... Z3.s
+	@echo ... Z4.obj
+	@echo ... Z4.i
+	@echo ... Z4.s
+	@echo ... Z5.obj
+	@echo ... Z5.i
+	@echo ... Z5.s
 .PHONY : help
 
 

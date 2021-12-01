@@ -82,7 +82,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/nikol/OneDrive/Lab/vvp1/LR2/Z1.cpp">
+			<Option target="LR2"/>
+		</Unit>
 		<Unit filename="C:/Users/nikol/OneDrive/Lab/vvp1/LR2/Z2.cpp">
+			<Option target="LR2"/>
+		</Unit>
+		<Unit filename="C:/Users/nikol/OneDrive/Lab/vvp1/LR2/Z3.cpp">
+			<Option target="LR2"/>
+		</Unit>
+		<Unit filename="C:/Users/nikol/OneDrive/Lab/vvp1/LR2/Z4.cpp">
+			<Option target="LR2"/>
+		</Unit>
+		<Unit filename="C:/Users/nikol/OneDrive/Lab/vvp1/LR2/Z5.cpp">
 			<Option target="LR2"/>
 		</Unit>
 		<Unit filename="C:/Users/nikol/OneDrive/Lab/vvp1/LR2/CMakeLists.txt">

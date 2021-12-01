@@ -56,9 +56,61 @@ include CMakeFiles/LR2.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/LR2.dir/flags.make
 
+CMakeFiles/LR2.dir/Z3.cpp.obj: CMakeFiles/LR2.dir/flags.make
+CMakeFiles/LR2.dir/Z3.cpp.obj: ../Z3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\nikol\OneDrive\Lab\vvp1\LR2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LR2.dir/Z3.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LR2.dir\Z3.cpp.obj -c C:\Users\nikol\OneDrive\Lab\vvp1\LR2\Z3.cpp
+
+CMakeFiles/LR2.dir/Z3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LR2.dir/Z3.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\nikol\OneDrive\Lab\vvp1\LR2\Z3.cpp > CMakeFiles\LR2.dir\Z3.cpp.i
+
+CMakeFiles/LR2.dir/Z3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LR2.dir/Z3.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\nikol\OneDrive\Lab\vvp1\LR2\Z3.cpp -o CMakeFiles\LR2.dir\Z3.cpp.s
+
+CMakeFiles/LR2.dir/Z4.cpp.obj: CMakeFiles/LR2.dir/flags.make
+CMakeFiles/LR2.dir/Z4.cpp.obj: ../Z4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\nikol\OneDrive\Lab\vvp1\LR2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LR2.dir/Z4.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LR2.dir\Z4.cpp.obj -c C:\Users\nikol\OneDrive\Lab\vvp1\LR2\Z4.cpp
+
+CMakeFiles/LR2.dir/Z4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LR2.dir/Z4.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\nikol\OneDrive\Lab\vvp1\LR2\Z4.cpp > CMakeFiles\LR2.dir\Z4.cpp.i
+
+CMakeFiles/LR2.dir/Z4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LR2.dir/Z4.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\nikol\OneDrive\Lab\vvp1\LR2\Z4.cpp -o CMakeFiles\LR2.dir\Z4.cpp.s
+
+CMakeFiles/LR2.dir/Z5.cpp.obj: CMakeFiles/LR2.dir/flags.make
+CMakeFiles/LR2.dir/Z5.cpp.obj: ../Z5.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\nikol\OneDrive\Lab\vvp1\LR2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LR2.dir/Z5.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LR2.dir\Z5.cpp.obj -c C:\Users\nikol\OneDrive\Lab\vvp1\LR2\Z5.cpp
+
+CMakeFiles/LR2.dir/Z5.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LR2.dir/Z5.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\nikol\OneDrive\Lab\vvp1\LR2\Z5.cpp > CMakeFiles\LR2.dir\Z5.cpp.i
+
+CMakeFiles/LR2.dir/Z5.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LR2.dir/Z5.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\nikol\OneDrive\Lab\vvp1\LR2\Z5.cpp -o CMakeFiles\LR2.dir\Z5.cpp.s
+
+CMakeFiles/LR2.dir/Z1.cpp.obj: CMakeFiles/LR2.dir/flags.make
+CMakeFiles/LR2.dir/Z1.cpp.obj: ../Z1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\nikol\OneDrive\Lab\vvp1\LR2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LR2.dir/Z1.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LR2.dir\Z1.cpp.obj -c C:\Users\nikol\OneDrive\Lab\vvp1\LR2\Z1.cpp
+
+CMakeFiles/LR2.dir/Z1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LR2.dir/Z1.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\nikol\OneDrive\Lab\vvp1\LR2\Z1.cpp > CMakeFiles\LR2.dir\Z1.cpp.i
+
+CMakeFiles/LR2.dir/Z1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LR2.dir/Z1.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\nikol\OneDrive\Lab\vvp1\LR2\Z1.cpp -o CMakeFiles\LR2.dir\Z1.cpp.s
+
 CMakeFiles/LR2.dir/Z2.cpp.obj: CMakeFiles/LR2.dir/flags.make
 CMakeFiles/LR2.dir/Z2.cpp.obj: ../Z2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\nikol\OneDrive\Lab\vvp1\LR2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LR2.dir/Z2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\nikol\OneDrive\Lab\vvp1\LR2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LR2.dir/Z2.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LR2.dir\Z2.cpp.obj -c C:\Users\nikol\OneDrive\Lab\vvp1\LR2\Z2.cpp
 
 CMakeFiles/LR2.dir/Z2.cpp.i: cmake_force
@@ -71,17 +123,25 @@ CMakeFiles/LR2.dir/Z2.cpp.s: cmake_force
 
 # Object files for target LR2
 LR2_OBJECTS = \
+"CMakeFiles/LR2.dir/Z3.cpp.obj" \
+"CMakeFiles/LR2.dir/Z4.cpp.obj" \
+"CMakeFiles/LR2.dir/Z5.cpp.obj" \
+"CMakeFiles/LR2.dir/Z1.cpp.obj" \
 "CMakeFiles/LR2.dir/Z2.cpp.obj"
 
 # External object files for target LR2
 LR2_EXTERNAL_OBJECTS =
 
+LR2.exe: CMakeFiles/LR2.dir/Z3.cpp.obj
+LR2.exe: CMakeFiles/LR2.dir/Z4.cpp.obj
+LR2.exe: CMakeFiles/LR2.dir/Z5.cpp.obj
+LR2.exe: CMakeFiles/LR2.dir/Z1.cpp.obj
 LR2.exe: CMakeFiles/LR2.dir/Z2.cpp.obj
 LR2.exe: CMakeFiles/LR2.dir/build.make
 LR2.exe: CMakeFiles/LR2.dir/linklibs.rsp
 LR2.exe: CMakeFiles/LR2.dir/objects1.rsp
 LR2.exe: CMakeFiles/LR2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\nikol\OneDrive\Lab\vvp1\LR2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LR2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\nikol\OneDrive\Lab\vvp1\LR2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable LR2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LR2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
